@@ -41,7 +41,7 @@ const Experience: React.FC = () => {
     },
     {
       title: "Laravel Developer",
-      company: "Vinerds Technologies",
+      company: "Vnerds Technologies",
       location: "Ahmedabad, Gujarat",
       period: "October 2023 - October 2024",
       responsibilities: [
